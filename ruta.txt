@@ -1,0 +1,5 @@
+abrir carpeta de app en vs code
+luego cd
+cd nombre de la app
+ej 
+cd clientes-control
